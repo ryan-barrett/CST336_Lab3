@@ -10,7 +10,7 @@
 <main>
     <h1>Sign Up</h1>
     <hr>
-    <form id="signupForm" action="welcome.html">
+    <form id="signupForm" action="welcome.php">
         First Name: <input type="text" name="fName"><br>
         Last Name: <input type="text" name="lName"><br>
         Gender:
